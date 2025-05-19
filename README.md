@@ -1,2 +1,3 @@
-# jellyfin
-Jellyfin
+# Jellyfin
+
+Running Jellyfin with Docker (compose).
